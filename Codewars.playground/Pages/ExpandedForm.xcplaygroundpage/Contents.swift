@@ -1,6 +1,6 @@
 import Foundation
 
-// https://www.codewars.com/kata/write-number-in-expanded-form/train/swift
+// https://www.codewars.com/kata/write-number-in-expanded-form
 
 func expandedForm(_ num: Int) -> String {
     let array = String(num).characters.flatMap{ Int(String($0)) }
