@@ -44,4 +44,10 @@ class LinkedList {
         guard let head = head else { return 0 }
         return (head.data == data ? 1 : 0) + count(head.next, data)
     }
+    
+    // http://www.codewars.com/kata/linked-lists-get-nth-node/
+    func getNth(_ head: Node?, _ index: Int) throws -> Node? {
+        guard let node = head else { throw NSError(domain: "Error", code: 1) }
+        return index == 0 ? node : try getNth(node.next,index - 1)
+    }
 }
