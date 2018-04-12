@@ -28,7 +28,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		0038452B207FB52800B958FF /* Codewars2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Codewars2; sourceTree = BUILT_PRODUCTS_DIR; };
+		0038452B207FB52800B958FF /* Codewars */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Codewars; sourceTree = BUILT_PRODUCTS_DIR; };
 		0038452E207FB52800B958FF /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		00384536207FB55A00B958FF /* LinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedList.swift; sourceTree = "<group>"; };
 		00384538207FB56200B958FF /* Node.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Node.swift; sourceTree = "<group>"; };
@@ -59,7 +59,7 @@
 		0038452C207FB52800B958FF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0038452B207FB52800B958FF /* Codewars2 */,
+				0038452B207FB52800B958FF /* Codewars */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -96,9 +96,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0038452A207FB52800B958FF /* Codewars2 */ = {
+		0038452A207FB52800B958FF /* Codewars */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00384532207FB52800B958FF /* Build configuration list for PBXNativeTarget "Codewars2" */;
+			buildConfigurationList = 00384532207FB52800B958FF /* Build configuration list for PBXNativeTarget "Codewars" */;
 			buildPhases = (
 				00384527207FB52800B958FF /* Sources */,
 				00384528207FB52800B958FF /* Frameworks */,
@@ -108,9 +108,9 @@
 			);
 			dependencies = (
 			);
-			name = Codewars2;
+			name = Codewars;
 			productName = Codewars2;
-			productReference = 0038452B207FB52800B958FF /* Codewars2 */;
+			productReference = 0038452B207FB52800B958FF /* Codewars */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -140,7 +140,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0038452A207FB52800B958FF /* Codewars2 */,
+				0038452A207FB52800B958FF /* Codewars */,
 			);
 		};
 /* End PBXProject section */
@@ -307,7 +307,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		00384532207FB52800B958FF /* Build configuration list for PBXNativeTarget "Codewars2" */ = {
+		00384532207FB52800B958FF /* Build configuration list for PBXNativeTarget "Codewars" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00384533207FB52800B958FF /* Debug */,
