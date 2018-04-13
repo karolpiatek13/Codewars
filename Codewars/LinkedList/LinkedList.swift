@@ -10,8 +10,6 @@ import Foundation
 
 class LinkedList {
     
-    var head: Node?
-    
     // http://www.codewars.com/kata/linked-lists-push-and-buildonetwothree/
     
     func push(_ head:Node?, _ data:Int) -> Node {
@@ -66,5 +64,18 @@ class LinkedList {
         newNode.next = next
         
         return head
+    }
+    
+    // https://www.codewars.com/kata/linked-lists-append/
+    func append(_ listA:Node?, _ listB:Node?) -> Node? {
+        guard let listA = listA else { return listB }
+        let last = getLast(listA)
+        last.next = listB
+        return listA
+    }
+    
+    func getLast(_ node: Node) -> Node {
+        guard let next = node.next else { return node }
+        return getLast(next)
     }
 }
