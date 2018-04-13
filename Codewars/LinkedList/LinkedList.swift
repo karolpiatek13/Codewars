@@ -50,4 +50,21 @@ class LinkedList {
         guard let node = head else { throw NSError(domain: "Error", code: 1) }
         return index == 0 ? node : try getNth(node.next,index - 1)
     }
+    
+    // http://www.codewars.com/kata/linked-lists-insert-nth-node/
+    func insertNth(_ head: Node?, _ index: Int, _ data: Int) throws -> Node? {
+        guard index != 0 else {
+            let newHead = Node(data)
+            newHead.next = head
+            return newHead
+        }
+        
+        guard let node = try getNth(head, index - 1) else { return nil  }
+        let newNode = Node(data)
+        let next = node.next
+        node.next = newNode
+        newNode.next = next
+        
+        return head
+    }
 }
