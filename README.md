@@ -14,10 +14,10 @@ Kata - code challenge performed to improve skills and knowledge about programmin
 [8 KYU](#8KYU) | [7 KYU](#7KYU) | [6 KYU](#6KYU) | [5 KYU](#5KYU)
 
 ### <a name="8KYU">8 KYU</a>
-
+* [Stringy Strings](Codewars/LinkedList/LinkedList.swift) - [CodeWars](http://www.codewars.com/kata/563b74ddd19a3ad462000054)
 
 ### <a name="7KYU">7 KYU</a>
-* [Linked Lists - Append](Codewars/LinkedList/LinkedList.swift) - [CodeWars](https://www.codewars.com/kata/55d17ddd6d7868493e000074)
+* [Linked Lists - Append](Codewars/Basic/StringyStrings.swift) - [CodeWars](https://www.codewars.com/kata/55d17ddd6d7868493e000074)
 * [Linked Lists - Get Nth Node](Codewars/LinkedList/LinkedList.swift) - [CodeWars](https://www.codewars.com/kata/55befc42bfe4d13ab1000007)
 * [Linked Lists - Push & BuildOneTwoThree](Codewars/LinkedList/LinkedList.swift) - [CodeWars](https://www.codewars.com/kata/55be95786abade3c71000079)
 * [Functional Addition](Codewars/Basic/FunctionalAddition.swift) - [CodeWars](https://www.codewars.com/kata/538835ae443aae6e03000547)

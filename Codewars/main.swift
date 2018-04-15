@@ -8,7 +8,3 @@
 
 import Foundation
 
-let list = LinkedList()
-list.head = list.buildOneTwoThree()
-print(list.length(list.head))
-print(list.count(list.head, 1))
