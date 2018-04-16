@@ -78,4 +78,12 @@ class LinkedList {
         guard let next = node.next else { return node }
         return getLast(next)
     }
+    
+    // https://www.codewars.com/kata/linked-lists-move-node/train/swift
+    func moveNode(source:Node?, dest:Node?) throws -> Context? {
+        guard let source = source else { throw NSError(domain: "Error", code: 1) }
+        let newSource = source.next
+        source.next = dest
+        return Context(source: newSource, dest: source)
+    }
 }

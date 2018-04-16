@@ -20,6 +20,7 @@ Kata - code challenge performed to improve skills and knowledge about programmin
 * [Linked Lists - Append](Codewars/LinkedList/LinkedList.swift) - [CodeWars](https://www.codewars.com/kata/55d17ddd6d7868493e000074)
 * [Linked Lists - Get Nth Node](Codewars/LinkedList/LinkedList.swift) - [CodeWars](https://www.codewars.com/kata/55befc42bfe4d13ab1000007)
 * [Linked Lists - Push & BuildOneTwoThree](Codewars/LinkedList/LinkedList.swift) - [CodeWars](https://www.codewars.com/kata/55be95786abade3c71000079)
+* [Linked Lists - Move Node](Codewars/Basic/LinkedList.swift) - [CodeWars](https://www.codewars.com/kata/55da347204760ba494000038/)
 * [Functional Addition](Codewars/Basic/FunctionalAddition.swift) - [CodeWars](https://www.codewars.com/kata/538835ae443aae6e03000547)
 * [Find the nth Digit of a Number](Codewars/Basic/FindDigit.swift) - [CodeWars](https://www.codewars.com/kata/find-the-nth-digit-of-a-number/swift)
 
