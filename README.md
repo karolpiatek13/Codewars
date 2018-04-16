@@ -9,7 +9,7 @@ In this repo you can find my solutions of katas from https://www.codewars.com/.
 Kata - code challenge performed to improve skills and knowledge about programming.
 
 ### Katas have been solved in one of following languages:
-+ Swift 3.1.1 
++ Swift 3.1.1 or 4.0 depends of kata requirements
 
 [8 KYU](#8KYU) | [7 KYU](#7KYU) | [6 KYU](#6KYU) | [5 KYU](#5KYU)
 
@@ -23,6 +23,7 @@ Kata - code challenge performed to improve skills and knowledge about programmin
 * [Linked Lists - Move Node](Codewars/Basic/LinkedList.swift) - [CodeWars](https://www.codewars.com/kata/55da347204760ba494000038/)
 * [Functional Addition](Codewars/Basic/FunctionalAddition.swift) - [CodeWars](https://www.codewars.com/kata/538835ae443aae6e03000547)
 * [Find the nth Digit of a Number](Codewars/Basic/FindDigit.swift) - [CodeWars](https://www.codewars.com/kata/find-the-nth-digit-of-a-number/swift)
+* [Euclidean distance in n dimensions](Codewars/Basic/EuclideanDistance.swift) - [CodeWars](https://www.codewars.com/kata/595877be60d17855980013d3/)
 
 ### <a name="6KYU">6 KYU</a>
 * [Linked Lists - Insert Nth Node](Codewars/LinkedList/LinkedList.swift) - [CodeWars](https://www.codewars.com/kata/55cacc3039607536c6000081)
