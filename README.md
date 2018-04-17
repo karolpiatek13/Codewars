@@ -24,6 +24,7 @@ Kata - code challenge performed to improve skills and knowledge about programmin
 * [Functional Addition](Codewars/Basic/FunctionalAddition.swift) - [CodeWars](https://www.codewars.com/kata/538835ae443aae6e03000547)
 * [Find the nth Digit of a Number](Codewars/Basic/FindDigit.swift) - [CodeWars](https://www.codewars.com/kata/find-the-nth-digit-of-a-number/swift)
 * [Euclidean distance in n dimensions](Codewars/Basic/EuclideanDistance.swift) - [CodeWars](https://www.codewars.com/kata/595877be60d17855980013d3/)
+* [Binary Calculator](Codewars/Basic/BinaryCalculator.swift) - [CodeWars](https://www.codewars.com/kata/546ba103f0cf8f7982000df4/)
 
 ### <a name="6KYU">6 KYU</a>
 * [Linked Lists - Insert Nth Node](Codewars/LinkedList/LinkedList.swift) - [CodeWars](https://www.codewars.com/kata/55cacc3039607536c6000081)

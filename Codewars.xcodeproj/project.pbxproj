@@ -17,6 +17,7 @@
 		611A96C42084CAC300CD6240 /* FindDigit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 611A96C32084CAC300CD6240 /* FindDigit.swift */; };
 		611A96C62084D0F500CD6240 /* Context.swift in Sources */ = {isa = PBXBuildFile; fileRef = 611A96C52084D0F500CD6240 /* Context.swift */; };
 		611A96C82084DF5600CD6240 /* EuclideanDistance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 611A96C72084DF5600CD6240 /* EuclideanDistance.swift */; };
+		614B46B02085FA1F004E5F05 /* BinaryCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 614B46AF2085FA1F004E5F05 /* BinaryCalculator.swift */; };
 		61EFC2AB2083A93B00750AA9 /* StringyStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61EFC2AA2083A93B00750AA9 /* StringyStrings.swift */; };
 /* End PBXBuildFile section */
 
@@ -44,6 +45,7 @@
 		611A96C32084CAC300CD6240 /* FindDigit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindDigit.swift; sourceTree = "<group>"; };
 		611A96C52084D0F500CD6240 /* Context.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Context.swift; sourceTree = "<group>"; };
 		611A96C72084DF5600CD6240 /* EuclideanDistance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EuclideanDistance.swift; sourceTree = "<group>"; };
+		614B46AF2085FA1F004E5F05 /* BinaryCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryCalculator.swift; sourceTree = "<group>"; };
 		61EFC2AA2083A93B00750AA9 /* StringyStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringyStrings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -104,6 +106,7 @@
 				61EFC2AA2083A93B00750AA9 /* StringyStrings.swift */,
 				611A96C32084CAC300CD6240 /* FindDigit.swift */,
 				611A96C72084DF5600CD6240 /* EuclideanDistance.swift */,
+				614B46AF2085FA1F004E5F05 /* BinaryCalculator.swift */,
 			);
 			path = Basic;
 			sourceTree = "<group>";
@@ -169,6 +172,7 @@
 				61EFC2AB2083A93B00750AA9 /* StringyStrings.swift in Sources */,
 				004D65002080CE33009FD3CE /* CaesarCipher.swift in Sources */,
 				611A96C82084DF5600CD6240 /* EuclideanDistance.swift in Sources */,
+				614B46B02085FA1F004E5F05 /* BinaryCalculator.swift in Sources */,
 				611A96C62084D0F500CD6240 /* Context.swift in Sources */,
 				0038453E207FC2BC00B958FF /* ReverseOrRotate.swift in Sources */,
 				00384539207FB56200B958FF /* Node.swift in Sources */,
