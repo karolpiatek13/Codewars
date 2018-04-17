@@ -18,6 +18,7 @@
 		611A96C62084D0F500CD6240 /* Context.swift in Sources */ = {isa = PBXBuildFile; fileRef = 611A96C52084D0F500CD6240 /* Context.swift */; };
 		611A96C82084DF5600CD6240 /* EuclideanDistance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 611A96C72084DF5600CD6240 /* EuclideanDistance.swift */; };
 		614B46B02085FA1F004E5F05 /* BinaryCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 614B46AF2085FA1F004E5F05 /* BinaryCalculator.swift */; };
+		616A906A2086841A00F8D299 /* FizzBuzzCuckooClock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 616A90692086841A00F8D299 /* FizzBuzzCuckooClock.swift */; };
 		61EFC2AB2083A93B00750AA9 /* StringyStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61EFC2AA2083A93B00750AA9 /* StringyStrings.swift */; };
 /* End PBXBuildFile section */
 
@@ -46,6 +47,7 @@
 		611A96C52084D0F500CD6240 /* Context.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Context.swift; sourceTree = "<group>"; };
 		611A96C72084DF5600CD6240 /* EuclideanDistance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EuclideanDistance.swift; sourceTree = "<group>"; };
 		614B46AF2085FA1F004E5F05 /* BinaryCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryCalculator.swift; sourceTree = "<group>"; };
+		616A90692086841A00F8D299 /* FizzBuzzCuckooClock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FizzBuzzCuckooClock.swift; sourceTree = "<group>"; };
 		61EFC2AA2083A93B00750AA9 /* StringyStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringyStrings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -79,6 +81,7 @@
 		0038452D207FB52800B958FF /* Codewars */ = {
 			isa = PBXGroup;
 			children = (
+				616A9068208683FD00F8D299 /* 7KYU */,
 				0038453A207FC28400B958FF /* Basic */,
 				00384535207FB54A00B958FF /* LinkedList */,
 				0038452E207FB52800B958FF /* main.swift */,
@@ -109,6 +112,14 @@
 				614B46AF2085FA1F004E5F05 /* BinaryCalculator.swift */,
 			);
 			path = Basic;
+			sourceTree = "<group>";
+		};
+		616A9068208683FD00F8D299 /* 7KYU */ = {
+			isa = PBXGroup;
+			children = (
+				616A90692086841A00F8D299 /* FizzBuzzCuckooClock.swift */,
+			);
+			path = 7KYU;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -180,6 +191,7 @@
 				611A96C42084CAC300CD6240 /* FindDigit.swift in Sources */,
 				0038453C207FC2B300B958FF /* ExpandedForm.swift in Sources */,
 				0038452F207FB52800B958FF /* main.swift in Sources */,
+				616A906A2086841A00F8D299 /* FizzBuzzCuckooClock.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
