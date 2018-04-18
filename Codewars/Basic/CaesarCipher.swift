@@ -39,9 +39,7 @@ class CaesarCipher {
     }
 
     func demovingShift(_ arr: [String], _ shift: Int) -> String {
-        let text = arr.reduce("") { (result, value) -> String in
-            return result + value
-        }
+        let text = arr.reduce("",+)
         
         return encode(text: text, shift: shift, operation: -)
     }
@@ -70,9 +68,7 @@ class CaesarCipher {
             
             shift += 1
             return String(UnicodeScalar(UInt8(result)))
-        }).reduce("") { (result, value) -> String in
-            return result + value
-        }
+        }).reduce("",+)
     }
 }
 
