@@ -17,6 +17,7 @@
 		00BABE1F208751D6003E6170 /* ReplaceAllItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00BABE1E208751D6003E6170 /* ReplaceAllItems.swift */; };
 		00BABE23208757C8003E6170 /* Multiples3or5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00BABE22208757C8003E6170 /* Multiples3or5.swift */; };
 		00BABE2720877EFD003E6170 /* PartialWordSearching.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00BABE2620877EFD003E6170 /* PartialWordSearching.swift */; };
+		00BABE2920878C8B003E6170 /* NumbersWithDigitInside.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00BABE2820878C8B003E6170 /* NumbersWithDigitInside.swift */; };
 		611A96C42084CAC300CD6240 /* FindDigit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 611A96C32084CAC300CD6240 /* FindDigit.swift */; };
 		611A96C62084D0F500CD6240 /* Context.swift in Sources */ = {isa = PBXBuildFile; fileRef = 611A96C52084D0F500CD6240 /* Context.swift */; };
 		611A96C82084DF5600CD6240 /* EuclideanDistance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 611A96C72084DF5600CD6240 /* EuclideanDistance.swift */; };
@@ -49,6 +50,7 @@
 		00BABE1E208751D6003E6170 /* ReplaceAllItems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplaceAllItems.swift; sourceTree = "<group>"; };
 		00BABE22208757C8003E6170 /* Multiples3or5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Multiples3or5.swift; sourceTree = "<group>"; };
 		00BABE2620877EFD003E6170 /* PartialWordSearching.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartialWordSearching.swift; sourceTree = "<group>"; };
+		00BABE2820878C8B003E6170 /* NumbersWithDigitInside.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumbersWithDigitInside.swift; sourceTree = "<group>"; };
 		611A96C32084CAC300CD6240 /* FindDigit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindDigit.swift; sourceTree = "<group>"; };
 		611A96C52084D0F500CD6240 /* Context.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Context.swift; sourceTree = "<group>"; };
 		611A96C72084DF5600CD6240 /* EuclideanDistance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EuclideanDistance.swift; sourceTree = "<group>"; };
@@ -127,6 +129,7 @@
 				00BABE1E208751D6003E6170 /* ReplaceAllItems.swift */,
 				00BABE22208757C8003E6170 /* Multiples3or5.swift */,
 				00BABE2620877EFD003E6170 /* PartialWordSearching.swift */,
+				00BABE2820878C8B003E6170 /* NumbersWithDigitInside.swift */,
 			);
 			path = 7KYU;
 			sourceTree = "<group>";
@@ -191,6 +194,7 @@
 				00384540207FC2C600B958FF /* FunctionalAddition.swift in Sources */,
 				61EFC2AB2083A93B00750AA9 /* StringyStrings.swift in Sources */,
 				00BABE2720877EFD003E6170 /* PartialWordSearching.swift in Sources */,
+				00BABE2920878C8B003E6170 /* NumbersWithDigitInside.swift in Sources */,
 				004D65002080CE33009FD3CE /* CaesarCipher.swift in Sources */,
 				611A96C82084DF5600CD6240 /* EuclideanDistance.swift in Sources */,
 				614B46B02085FA1F004E5F05 /* BinaryCalculator.swift in Sources */,
