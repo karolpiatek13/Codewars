@@ -28,6 +28,7 @@ Kata - code challenge performed to improve skills and knowledge about programmin
 * [Fizz Buzz Cuckoo Clock](Codewars/7KYU/FizzBuzzCuckooClock.swift) - [CodeWars](https://www.codewars.com/kata/58485a43d750d23bad0000e6)
 * [Replace all items](Codewars/7KYU/ReplaceAllItems.swift) - [CodeWars](https://www.codewars.com/kata/57ae18c6e298a7a6d5000c7a/)
 * [Sum of all the multiples of 3 or 5](Codewars/7KYU/Multiples3or5.swift) - [CodeWars](https://www.codewars.com/kata/sum-of-all-the-multiples-of-3-or-5/)
+* [Partial Word Searching](Codewars/7KYU/PartialWordSearching.swift) - [CodeWars](https://www.codewars.com/kata/partial-word-searching/)
 
 ### <a name="6KYU">6 KYU</a>
 * [Linked Lists - Insert Nth Node](Codewars/LinkedList/LinkedList.swift) - [CodeWars](https://www.codewars.com/kata/55cacc3039607536c6000081)
