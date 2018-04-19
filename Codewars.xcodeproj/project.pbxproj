@@ -18,6 +18,7 @@
 		00BABE23208757C8003E6170 /* Multiples3or5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00BABE22208757C8003E6170 /* Multiples3or5.swift */; };
 		00BABE2720877EFD003E6170 /* PartialWordSearching.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00BABE2620877EFD003E6170 /* PartialWordSearching.swift */; };
 		00BABE2920878C8B003E6170 /* NumbersWithDigitInside.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00BABE2820878C8B003E6170 /* NumbersWithDigitInside.swift */; };
+		00BABE2E2088F457003E6170 /* MovesInSquaredStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00BABE2D2088F457003E6170 /* MovesInSquaredStrings.swift */; };
 		611A96C42084CAC300CD6240 /* FindDigit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 611A96C32084CAC300CD6240 /* FindDigit.swift */; };
 		611A96C62084D0F500CD6240 /* Context.swift in Sources */ = {isa = PBXBuildFile; fileRef = 611A96C52084D0F500CD6240 /* Context.swift */; };
 		611A96C82084DF5600CD6240 /* EuclideanDistance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 611A96C72084DF5600CD6240 /* EuclideanDistance.swift */; };
@@ -51,6 +52,7 @@
 		00BABE22208757C8003E6170 /* Multiples3or5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Multiples3or5.swift; sourceTree = "<group>"; };
 		00BABE2620877EFD003E6170 /* PartialWordSearching.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartialWordSearching.swift; sourceTree = "<group>"; };
 		00BABE2820878C8B003E6170 /* NumbersWithDigitInside.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumbersWithDigitInside.swift; sourceTree = "<group>"; };
+		00BABE2D2088F457003E6170 /* MovesInSquaredStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovesInSquaredStrings.swift; sourceTree = "<group>"; };
 		611A96C32084CAC300CD6240 /* FindDigit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindDigit.swift; sourceTree = "<group>"; };
 		611A96C52084D0F500CD6240 /* Context.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Context.swift; sourceTree = "<group>"; };
 		611A96C72084DF5600CD6240 /* EuclideanDistance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EuclideanDistance.swift; sourceTree = "<group>"; };
@@ -130,6 +132,7 @@
 				00BABE22208757C8003E6170 /* Multiples3or5.swift */,
 				00BABE2620877EFD003E6170 /* PartialWordSearching.swift */,
 				00BABE2820878C8B003E6170 /* NumbersWithDigitInside.swift */,
+				00BABE2D2088F457003E6170 /* MovesInSquaredStrings.swift */,
 			);
 			path = 7KYU;
 			sourceTree = "<group>";
@@ -207,6 +210,7 @@
 				0038453C207FC2B300B958FF /* ExpandedForm.swift in Sources */,
 				0038452F207FB52800B958FF /* main.swift in Sources */,
 				616A906A2086841A00F8D299 /* FizzBuzzCuckooClock.swift in Sources */,
+				00BABE2E2088F457003E6170 /* MovesInSquaredStrings.swift in Sources */,
 				00BABE1F208751D6003E6170 /* ReplaceAllItems.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
