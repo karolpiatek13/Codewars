@@ -31,6 +31,7 @@ Kata - code challenge performed to improve skills and knowledge about programmin
 * [Partial Word Searching](Codewars/7KYU/PartialWordSearching.swift) - [CodeWars](https://www.codewars.com/kata/partial-word-searching/)
 * [Numbers with this digit inside](Codewars/7KYU/NumbersWithDigitInside.swift) - [CodeWars](https://www.codewars.com/kata/57ad85bb7cb1f3ae7c000039)
 * [Moves In Squared Strings](Codewars/7KYU/MovesInSquaredStrings.swift) - [CodeWars](https://www.codewars.com/kata/56dbe0e313c2f63be4000b25/)
+* [Correct the time-string](Codewars/7KYU/Correct.swift) - [CodeWars](https://www.codewars.com/kata/57873ab5e55533a2890000c7/)
 
 ### <a name="6KYU">6 KYU</a>
 * [Linked Lists - Insert Nth Node](Codewars/LinkedList/LinkedList.swift) - [CodeWars](https://www.codewars.com/kata/55cacc3039607536c6000081)
