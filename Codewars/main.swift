@@ -8,3 +8,4 @@
 
 import Foundation
 
+print(Array(sieveOfEratosthenes(max: 1000)).sorted())

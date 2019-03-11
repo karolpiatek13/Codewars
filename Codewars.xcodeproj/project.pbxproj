@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		001F91C02236C4E5003B79C2 /* SieveOfEratosthenes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001F91BE2236C39A003B79C2 /* SieveOfEratosthenes.swift */; };
 		0038452F207FB52800B958FF /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0038452E207FB52800B958FF /* main.swift */; };
 		00384537207FB55A00B958FF /* LinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00384536207FB55A00B958FF /* LinkedList.swift */; };
 		00384539207FB56200B958FF /* Node.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00384538207FB56200B958FF /* Node.swift */; };
@@ -41,6 +42,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		001F91BE2236C39A003B79C2 /* SieveOfEratosthenes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SieveOfEratosthenes.swift; sourceTree = "<group>"; };
 		0038452B207FB52800B958FF /* Codewars */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Codewars; sourceTree = BUILT_PRODUCTS_DIR; };
 		0038452E207FB52800B958FF /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		00384536207FB55A00B958FF /* LinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedList.swift; sourceTree = "<group>"; };
@@ -122,6 +124,7 @@
 				611A96C32084CAC300CD6240 /* FindDigit.swift */,
 				611A96C72084DF5600CD6240 /* EuclideanDistance.swift */,
 				614B46AF2085FA1F004E5F05 /* BinaryCalculator.swift */,
+				001F91BE2236C39A003B79C2 /* SieveOfEratosthenes.swift */,
 			);
 			path = Basic;
 			sourceTree = "<group>";
@@ -215,6 +218,7 @@
 				0038452F207FB52800B958FF /* main.swift in Sources */,
 				616A906A2086841A00F8D299 /* FizzBuzzCuckooClock.swift in Sources */,
 				00BABE2E2088F457003E6170 /* MovesInSquaredStrings.swift in Sources */,
+				001F91C02236C4E5003B79C2 /* SieveOfEratosthenes.swift in Sources */,
 				00BABE1F208751D6003E6170 /* ReplaceAllItems.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
