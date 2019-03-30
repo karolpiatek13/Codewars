@@ -18,3 +18,26 @@ func sieveOfEratosthenes(max: Int) -> Set<Int> {
     
     return array
 }
+
+func smallestPrimeFactor(for number: Int, primaryNumbers: [Int]) -> Int? {
+    
+    return primaryNumbers.first(where: { primaryNumber in
+        let dividedNumber = Double(number) / Double(primaryNumber)
+        return ceil(dividedNumber) == dividedNumber
+    })
+}
+
+func representNumberWithPrimeNumbersMultiplication(number: Int) -> [Int] {
+    
+    let primaryNumbers = Array(sieveOfEratosthenes(max: number)).sorted()
+    
+    var primeNumbers: [Int] = []
+    var number = number
+    while number != 1 {
+        guard let SPF = smallestPrimeFactor(for: number, primaryNumbers: primaryNumbers) else { continue }
+        number = number / SPF
+        primeNumbers.append(SPF)
+    }
+    
+    return primeNumbers
+}
