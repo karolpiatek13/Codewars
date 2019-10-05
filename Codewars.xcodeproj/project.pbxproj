@@ -21,6 +21,8 @@
 		00BABE2920878C8B003E6170 /* NumbersWithDigitInside.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00BABE2820878C8B003E6170 /* NumbersWithDigitInside.swift */; };
 		00BABE2E2088F457003E6170 /* MovesInSquaredStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00BABE2D2088F457003E6170 /* MovesInSquaredStrings.swift */; };
 		00BABE30208A4F03003E6170 /* Correct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00BABE2F208A4F02003E6170 /* Correct.swift */; };
+		5E75E7672348AF3B00D8CA2D /* EncryptThis.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E75E7662348AF3B00D8CA2D /* EncryptThis.swift */; };
+		5E75E7752348B47100D8CA2D /* DuplicateEncode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E75E7742348B47100D8CA2D /* DuplicateEncode.swift */; };
 		611A96C42084CAC300CD6240 /* FindDigit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 611A96C32084CAC300CD6240 /* FindDigit.swift */; };
 		611A96C62084D0F500CD6240 /* Context.swift in Sources */ = {isa = PBXBuildFile; fileRef = 611A96C52084D0F500CD6240 /* Context.swift */; };
 		611A96C82084DF5600CD6240 /* EuclideanDistance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 611A96C72084DF5600CD6240 /* EuclideanDistance.swift */; };
@@ -57,6 +59,8 @@
 		00BABE2820878C8B003E6170 /* NumbersWithDigitInside.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumbersWithDigitInside.swift; sourceTree = "<group>"; };
 		00BABE2D2088F457003E6170 /* MovesInSquaredStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovesInSquaredStrings.swift; sourceTree = "<group>"; };
 		00BABE2F208A4F02003E6170 /* Correct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Correct.swift; sourceTree = "<group>"; };
+		5E75E7662348AF3B00D8CA2D /* EncryptThis.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EncryptThis.swift; sourceTree = "<group>"; };
+		5E75E7742348B47100D8CA2D /* DuplicateEncode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DuplicateEncode.swift; sourceTree = "<group>"; };
 		611A96C32084CAC300CD6240 /* FindDigit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindDigit.swift; sourceTree = "<group>"; };
 		611A96C52084D0F500CD6240 /* Context.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Context.swift; sourceTree = "<group>"; };
 		611A96C72084DF5600CD6240 /* EuclideanDistance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EuclideanDistance.swift; sourceTree = "<group>"; };
@@ -95,6 +99,7 @@
 		0038452D207FB52800B958FF /* Codewars */ = {
 			isa = PBXGroup;
 			children = (
+				5E75E7652348AF2400D8CA2D /* 6KYU */,
 				616A9068208683FD00F8D299 /* 7KYU */,
 				0038453A207FC28400B958FF /* Basic */,
 				00384535207FB54A00B958FF /* LinkedList */,
@@ -127,6 +132,15 @@
 				001F91BE2236C39A003B79C2 /* SieveOfEratosthenes.swift */,
 			);
 			path = Basic;
+			sourceTree = "<group>";
+		};
+		5E75E7652348AF2400D8CA2D /* 6KYU */ = {
+			isa = PBXGroup;
+			children = (
+				5E75E7662348AF3B00D8CA2D /* EncryptThis.swift */,
+				5E75E7742348B47100D8CA2D /* DuplicateEncode.swift */,
+			);
+			path = 6KYU;
 			sourceTree = "<group>";
 		};
 		616A9068208683FD00F8D299 /* 7KYU */ = {
@@ -205,6 +219,7 @@
 				00BABE2720877EFD003E6170 /* PartialWordSearching.swift in Sources */,
 				00BABE2920878C8B003E6170 /* NumbersWithDigitInside.swift in Sources */,
 				004D65002080CE33009FD3CE /* CaesarCipher.swift in Sources */,
+				5E75E7752348B47100D8CA2D /* DuplicateEncode.swift in Sources */,
 				611A96C82084DF5600CD6240 /* EuclideanDistance.swift in Sources */,
 				614B46B02085FA1F004E5F05 /* BinaryCalculator.swift in Sources */,
 				611A96C62084D0F500CD6240 /* Context.swift in Sources */,
@@ -213,6 +228,7 @@
 				00384539207FB56200B958FF /* Node.swift in Sources */,
 				00384537207FB55A00B958FF /* LinkedList.swift in Sources */,
 				611A96C42084CAC300CD6240 /* FindDigit.swift in Sources */,
+				5E75E7672348AF3B00D8CA2D /* EncryptThis.swift in Sources */,
 				00BABE23208757C8003E6170 /* Multiples3or5.swift in Sources */,
 				0038453C207FC2B300B958FF /* ExpandedForm.swift in Sources */,
 				0038452F207FB52800B958FF /* main.swift in Sources */,
